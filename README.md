@@ -17,14 +17,12 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Enes_Yilmaz00)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Enes_Yilmaz00)
+(https://twitter.com/Enes_Yilmaz00)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/enes-yilmaz-28b8481a5/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/enes-yilmaz-28b8481a5/)
+(https://www.linkedin.com/in/enes-yilmaz-28b8481a5/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/eness_yyilmaz/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/eness_yyilmaz/)
+(https://www.instagram.com/eness_yyilmaz/)
+
 
 ### Languages and Tools:
 
