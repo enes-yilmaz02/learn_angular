@@ -1,7 +1,7 @@
 # Hi there, I'm Enes Yilmaz 👋 
 
 
-[![Twitter Follow]https://twitter.com/Enes_Yilmaz00)](https://twitter.com/Enes_Yilmaz00)
+
 
 
 
